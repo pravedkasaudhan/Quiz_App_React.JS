@@ -1,0 +1,13 @@
+.Solution{
+display: flex;
+justify-content: space-between;
+margin: 2px auto;
+font-size: smaller;
+width: 80%;
+height: 80%;
+}
+.Solution_Content{
+    padding:1px 1px;
+    width: 15px;
+    height:15px;
+}

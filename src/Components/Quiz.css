@@ -1,0 +1,6 @@
+.Quiz{
+    height: max-content;
+    padding: 0px 5px;
+    border: 3px solid rgb(78, 119, 233);
+    box-shadow: 0px 0px 20px 2px maroon;
+}

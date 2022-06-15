@@ -1,0 +1,9 @@
+.Alert{
+    display: inline;
+    background-color: maroon;
+    color: yellow;
+    /* padding: 3px 10px; */
+    margin-bottom: 10px;
+    position: relative;
+    bottom: 30px;
+}
